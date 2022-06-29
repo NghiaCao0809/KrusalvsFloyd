@@ -1,0 +1,12 @@
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.csproj.AssemblyReference.cache
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.Form1.resources
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.Properties.Resources.resources
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.csproj.GenerateResource.cache
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.csproj.CoreCompileInputs.cache
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\bin\Debug\DoanLTDT.exe.config
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\bin\Debug\DoanLTDT.exe
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\bin\Debug\DoanLTDT.pdb
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.exe
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.pdb
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.Cost.resources
+D:\Lập trình\LTDT\DoanLTDT\DoanLTDT\obj\Debug\DoanLTDT.Krusal.resources
